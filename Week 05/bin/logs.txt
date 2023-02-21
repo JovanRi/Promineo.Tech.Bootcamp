@@ -1,0 +1,4 @@
+INFO: Fri Oct 07 20:11:06 MST 2022 - Hello
+WARNING: Fri Oct 07 20:11:06 MST 2022 - This is a warning
+ERROR: Fri Oct 07 20:11:06 MST 2022 - This is an error!
+FATAL: Fri Oct 07 20:11:06 MST 2022 - Fatal error
